@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://musectic.github.io/sitemap.html.gz
+Sitemap: https://musectic.github.io/app/sitemap.html.gz
+Sitemap: https://musectic.github.io/assets/sitemap.html.gz
+Sitemap: https://musectic.github.io/css/sitemap.html.gz
+Sitemap: https://musectic.github.io/data/sitemap.html.gz
+Sitemap: https://musectic.github.io/includes/sitemap.html.gz
+Sitemap: https://musectic.github.io/item/sitemap.html.gz
+Sitemap: https://musectic.github.io/src/sitemap.html.gz
